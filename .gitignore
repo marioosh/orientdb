@@ -19,3 +19,5 @@ samples-and-tests/orientdb-test/orientdb-sample.iml
 samples-and-tests/orientdb-test/orientdb-sample.ipr
 samples-and-tests/orientdb-test/orientdb-sample.iws
 orientdb_play.iml
+orientdb-0.1.3.zip
+samples-and-tests/orientdb-test/logs
