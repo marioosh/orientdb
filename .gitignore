@@ -14,3 +14,8 @@
 /orientdb.iws
 /orientdb.ipr
 /out
+db.config
+samples-and-tests/orientdb-test/orientdb-sample.iml
+samples-and-tests/orientdb-test/orientdb-sample.ipr
+samples-and-tests/orientdb-test/orientdb-sample.iws
+orientdb_play.iml
